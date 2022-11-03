@@ -37,4 +37,5 @@
 ## Detect risky USB device usage
 
 ## Locate, track, and analyze the use of USBs across the organization and detect anomalous behavior, such as the use of a USB device during non-business hours.
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/r3dhulk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a></p><br><br>
